@@ -1,6 +1,6 @@
-# Globo News Website
+# Globo News Homepage Clone
 
-You can view the Globo News Website live at <a href="https://rafaellatado.github.io/globo.com/" target="_blank">https://rafaellatado.github.io/globo.com/</a>.
+If you want to see how it looks like, you can access it here: <a href="https://rafaellatado.github.io/globo-html-css/" target="_blank">https://rafaellatado.github.io/globo-html-css/</a>.
 
 ## Technologies Used
 - HTML: For structuring the content of the website.
